@@ -2,8 +2,6 @@
 
 By Sarah Sattanno
 
-Video overview: <URL HERE>
-
 ## Scope
 
 The purpose of the database is to be able to track the lifecycle of books from aquisition to sales for a Book Publishing Company, Harper Collins, and make business decisions based on sales data. Included in the database's scope is:
