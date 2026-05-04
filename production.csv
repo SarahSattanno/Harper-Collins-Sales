@@ -1,0 +1,364 @@
+id,book_id,print_run,quantity_in_stock,warehouse_location,unit_production_cost,reorder_point
+1,1,Limited Edition,28288,"Seattle, WA",11.91,3592
+2,2,Third Edition,14627,"Phoenix, AZ",4.26,3721
+3,3,First Edition,19062,"Denver, CO",10.04,2726
+4,4,First Edition,14951,"Atlanta, GA",17.76,648
+5,5,First Edition,13897,"Los Angeles, CA",17.15,1324
+6,6,Special Edition,17245,"Los Angeles, CA",7.59,263
+7,7,Paperback Edition,49456,"Atlanta, GA",5.22,3314
+8,8,Mass Market Edition,46615,"Dallas, TX",10.25,3101
+9,9,First Edition,26522,"Nashville, TN",9.26,3966
+10,10,First Edition,21016,"Denver, CO",9.15,3513
+11,11,Limited Edition,42452,"Atlanta, GA",6.99,3518
+12,12,First Edition,21784,"Chicago, IL",14.92,3969
+13,13,Special Edition,45694,"New York, NY",3.87,1067
+14,14,Second Edition,29052,"Denver, CO",8.71,844
+15,15,Paperback Edition,20834,"New York, NY",5.93,1577
+16,16,First Edition,33955,"Memphis, TN",10.72,1788
+17,17,Special Edition,23396,"New York, NY",13.77,1409
+18,18,Second Edition,7237,"Chicago, IL",6.47,1621
+19,19,Mass Market Edition,10518,"Memphis, TN",5.25,4247
+20,20,Paperback Edition,49943,"Denver, CO",14.28,3877
+21,21,Limited Edition,37494,"Denver, CO",7.51,2789
+22,22,Second Edition,29320,"Memphis, TN",9.77,2680
+23,23,Special Edition,18501,"Denver, CO",3.37,4356
+24,24,First Edition,20842,"Seattle, WA",9.5,666
+25,25,Third Edition,19313,"Memphis, TN",12.49,939
+26,26,Mass Market Edition,39433,"Phoenix, AZ",8.46,4954
+27,27,Mass Market Edition,48925,"Nashville, TN",9.47,4883
+28,28,Limited Edition,12836,"New York, NY",11.88,4307
+29,29,Second Edition,4554,"Seattle, WA",4.1,3013
+30,30,Limited Edition,6026,"Phoenix, AZ",12.51,520
+31,31,Second Edition,46874,"Seattle, WA",17.86,4493
+32,32,Mass Market Edition,40464,"Chicago, IL",8.14,2517
+33,33,Paperback Edition,27289,"New York, NY",13.02,628
+34,34,Special Edition,41845,"New York, NY",3.52,974
+35,35,Mass Market Edition,44958,"Atlanta, GA",6.9,1431
+36,36,Third Edition,5841,"Denver, CO",12.79,3065
+37,37,Third Edition,43495,"Atlanta, GA",4.5,894
+38,38,Third Edition,37129,"Atlanta, GA",12.47,2890
+39,39,Special Edition,8875,"Phoenix, AZ",3.95,3668
+40,40,Mass Market Edition,24212,"Nashville, TN",8.12,1676
+41,41,Second Edition,22895,"Seattle, WA",5.48,1326
+42,42,Second Edition,5557,"Los Angeles, CA",15.59,1028
+43,43,Mass Market Edition,35874,"Phoenix, AZ",3.09,2958
+44,44,Special Edition,41003,"Chicago, IL",11.76,1463
+45,45,Second Edition,12351,"Denver, CO",15.04,1556
+46,46,Limited Edition,29183,"Nashville, TN",8.87,2145
+47,47,Paperback Edition,40515,"Los Angeles, CA",14.16,3877
+48,48,Second Edition,35496,"Dallas, TX",7.3,4042
+49,49,Special Edition,13215,"New York, NY",13.01,4872
+50,50,Paperback Edition,30756,"Los Angeles, CA",14.56,4319
+51,51,Mass Market Edition,27937,"Chicago, IL",15.16,1333
+52,52,Special Edition,16884,"Nashville, TN",12.44,3240
+53,53,Mass Market Edition,7223,"Phoenix, AZ",15.69,2535
+54,54,First Edition,11006,"Los Angeles, CA",9.46,4405
+55,55,Second Edition,29170,"Memphis, TN",17.17,2018
+56,56,Special Edition,30065,"New York, NY",16.92,3598
+57,57,First Edition,26482,"Phoenix, AZ",8.3,3363
+58,58,First Edition,25070,"Dallas, TX",2.94,1011
+59,59,Special Edition,47338,"New York, NY",14.77,1327
+60,60,First Edition,19300,"Seattle, WA",13.29,1336
+61,61,Special Edition,46738,"Seattle, WA",9.45,243
+62,62,First Edition,1745,"Los Angeles, CA",5.84,1424
+63,63,Mass Market Edition,48160,"Denver, CO",10.68,1110
+64,64,Special Edition,19381,"Dallas, TX",7.17,591
+65,65,Second Edition,28013,"Denver, CO",9.59,1108
+66,66,Special Edition,33256,"Denver, CO",10.81,4421
+67,67,Mass Market Edition,16355,"Chicago, IL",7.01,212
+68,68,Mass Market Edition,23622,"Dallas, TX",11.35,1734
+69,69,Limited Edition,44292,"Memphis, TN",10.61,3154
+70,70,First Edition,34975,"Phoenix, AZ",10.36,4358
+71,71,Mass Market Edition,1832,"Atlanta, GA",16.04,556
+72,72,Limited Edition,25854,"New York, NY",6.43,333
+73,73,Third Edition,4927,"New York, NY",6.24,1049
+74,74,Special Edition,38635,"New York, NY",4.57,3086
+75,75,Mass Market Edition,22687,"Chicago, IL",15.37,4006
+76,76,Limited Edition,31861,"Chicago, IL",15.08,716
+77,77,Limited Edition,30494,"Nashville, TN",7.05,558
+78,78,Special Edition,13572,"Nashville, TN",7.39,2740
+79,79,Mass Market Edition,26598,"Phoenix, AZ",9.84,499
+80,80,Special Edition,42895,"Dallas, TX",6.93,591
+81,81,Special Edition,43474,"New York, NY",6.73,3214
+82,82,Paperback Edition,26715,"Seattle, WA",16.37,3367
+83,83,Third Edition,12743,"Seattle, WA",13.23,3209
+84,84,Special Edition,34531,"Los Angeles, CA",14.92,3677
+85,85,First Edition,28720,"Denver, CO",17.92,1678
+86,86,Mass Market Edition,19752,"New York, NY",4.09,2886
+87,87,Limited Edition,19875,"Los Angeles, CA",9.41,3690
+88,88,Second Edition,45704,"Seattle, WA",7.95,546
+89,89,Limited Edition,23605,"Denver, CO",17.97,2449
+90,90,Limited Edition,4259,"Memphis, TN",12.9,3527
+91,91,Third Edition,34125,"Chicago, IL",17.27,1369
+92,92,Special Edition,40317,"Seattle, WA",3.04,750
+93,93,Second Edition,42781,"New York, NY",8.11,4846
+94,94,First Edition,40155,"Chicago, IL",13.03,3238
+95,95,Third Edition,29594,"Memphis, TN",11.4,4537
+96,96,Third Edition,26585,"New York, NY",12.57,2244
+97,97,First Edition,2198,"Chicago, IL",10.24,3370
+98,98,Mass Market Edition,8217,"Los Angeles, CA",14.51,3855
+99,99,Second Edition,40599,"Los Angeles, CA",13.26,4223
+100,100,Second Edition,8537,"Chicago, IL",15.72,3903
+101,101,Second Edition,47251,"Seattle, WA",17.96,2818
+102,102,Limited Edition,23268,"Memphis, TN",11.02,2578
+103,103,Third Edition,10822,"Chicago, IL",14.8,4367
+104,104,Second Edition,8453,"Dallas, TX",14.78,2139
+105,105,Special Edition,32876,"Nashville, TN",8.09,4888
+106,106,Third Edition,31131,"Phoenix, AZ",4.51,906
+107,107,First Edition,20769,"Atlanta, GA",17.99,4121
+108,108,Mass Market Edition,27421,"Atlanta, GA",15.26,804
+109,109,Second Edition,21276,"Memphis, TN",9.47,4438
+110,110,Third Edition,8910,"Phoenix, AZ",12.42,1690
+111,111,Special Edition,8956,"Atlanta, GA",10.29,653
+112,112,Special Edition,8637,"Phoenix, AZ",4.87,1548
+113,113,Second Edition,21645,"Dallas, TX",7.86,4450
+114,114,Third Edition,5668,"Los Angeles, CA",5.54,4712
+115,115,Third Edition,8703,"Los Angeles, CA",12.02,965
+116,116,Mass Market Edition,42507,"Chicago, IL",11.67,4956
+117,117,Second Edition,11719,"Denver, CO",13.67,2965
+118,118,Special Edition,37437,"Nashville, TN",15.29,432
+119,119,First Edition,3479,"Denver, CO",6.6,1926
+120,120,Special Edition,37995,"Atlanta, GA",12.08,448
+121,121,Paperback Edition,41601,"Phoenix, AZ",6.99,2674
+122,122,Paperback Edition,16548,"Atlanta, GA",7.11,797
+123,123,Limited Edition,4426,"Chicago, IL",9.31,4166
+124,124,Paperback Edition,13870,"New York, NY",11.9,2760
+125,125,Special Edition,47578,"New York, NY",13.88,3029
+126,126,Paperback Edition,9069,"New York, NY",10.48,1069
+127,127,Third Edition,16342,"Seattle, WA",4.4,3883
+128,128,Second Edition,9732,"Memphis, TN",3.28,3346
+129,129,Special Edition,40829,"Atlanta, GA",6.35,1508
+130,130,Special Edition,21958,"Denver, CO",13.68,1755
+131,131,Special Edition,10942,"Seattle, WA",17.94,4024
+132,132,Paperback Edition,20720,"Seattle, WA",2.86,3421
+133,133,Mass Market Edition,30465,"Dallas, TX",5.83,3090
+134,134,First Edition,3812,"Los Angeles, CA",10.17,4055
+135,135,Third Edition,35672,"Nashville, TN",15.63,3730
+136,136,Second Edition,17832,"New York, NY",14.34,3197
+137,137,First Edition,26752,"Nashville, TN",11.34,1794
+138,138,Third Edition,36756,"Los Angeles, CA",3.64,4330
+139,139,Paperback Edition,36535,"Los Angeles, CA",15.29,1173
+140,140,Second Edition,6836,"Atlanta, GA",8.28,2977
+141,141,Mass Market Edition,24460,"Chicago, IL",5.59,4370
+142,142,Paperback Edition,33273,"Nashville, TN",3.2,1322
+143,143,Limited Edition,22326,"Seattle, WA",10.55,1420
+144,144,Mass Market Edition,34284,"Chicago, IL",7.58,2809
+145,145,Second Edition,26252,"Denver, CO",13.96,2651
+146,146,Mass Market Edition,22544,"Phoenix, AZ",15.34,4560
+147,147,Paperback Edition,46947,"Denver, CO",7.15,336
+148,148,Third Edition,22208,"Memphis, TN",17.69,4981
+149,149,Third Edition,48034,"Nashville, TN",11.75,2375
+150,150,Limited Edition,38410,"Denver, CO",6.03,620
+151,151,Mass Market Edition,31986,"Chicago, IL",10.63,3314
+152,152,Second Edition,45112,"Dallas, TX",2.99,1100
+153,153,Second Edition,1741,"Seattle, WA",7.36,1440
+154,154,Paperback Edition,45752,"Dallas, TX",8.86,4063
+155,155,Special Edition,48723,"Nashville, TN",13.44,4449
+156,156,Second Edition,37258,"New York, NY",17.97,4118
+157,157,Mass Market Edition,25195,"New York, NY",17.33,3965
+158,158,Mass Market Edition,22934,"Phoenix, AZ",7.99,2365
+159,159,Mass Market Edition,32231,"Dallas, TX",17.34,2485
+160,160,Mass Market Edition,20062,"Dallas, TX",17.09,2638
+161,161,Special Edition,19440,"Dallas, TX",13.2,4205
+162,162,Third Edition,31944,"New York, NY",11.19,2440
+163,163,Third Edition,8487,"Denver, CO",12.99,3310
+164,164,Paperback Edition,23118,"Chicago, IL",7.0,2556
+165,165,Limited Edition,5679,"New York, NY",16.82,2300
+166,166,Limited Edition,31896,"Dallas, TX",5.63,4612
+167,167,Third Edition,37332,"Los Angeles, CA",4.63,2160
+168,168,Second Edition,3826,"Phoenix, AZ",6.0,2107
+169,169,First Edition,7066,"Atlanta, GA",7.62,4069
+170,170,First Edition,45142,"Chicago, IL",2.58,4708
+171,171,Second Edition,27167,"Seattle, WA",9.9,1833
+172,172,Special Edition,19324,"New York, NY",6.92,684
+173,173,Special Edition,6362,"Denver, CO",6.1,505
+174,174,Second Edition,27886,"Chicago, IL",16.98,497
+175,175,Special Edition,26517,"Seattle, WA",5.39,2571
+176,176,First Edition,1107,"Los Angeles, CA",11.3,1079
+177,177,Third Edition,19149,"Seattle, WA",17.83,4650
+178,178,Mass Market Edition,32869,"Chicago, IL",15.69,4034
+179,179,Third Edition,13136,"Memphis, TN",7.63,3959
+180,180,Limited Edition,17360,"Chicago, IL",2.72,2961
+181,181,Special Edition,19834,"Denver, CO",12.95,1782
+182,182,Second Edition,40539,"Atlanta, GA",15.32,4421
+183,183,Third Edition,6184,"Atlanta, GA",12.87,1713
+184,184,Second Edition,31790,"New York, NY",17.01,255
+185,185,Third Edition,25637,"Dallas, TX",9.42,2387
+186,186,Third Edition,20288,"Denver, CO",13.7,293
+187,187,Third Edition,43339,"New York, NY",13.24,708
+188,188,Limited Edition,8247,"Seattle, WA",7.26,3521
+189,189,Limited Edition,33433,"Los Angeles, CA",13.2,2616
+190,190,Third Edition,40780,"Dallas, TX",5.9,1294
+191,191,Paperback Edition,10539,"Seattle, WA",14.09,3260
+192,192,Paperback Edition,46502,"Phoenix, AZ",16.65,4603
+193,193,Special Edition,44022,"Dallas, TX",14.31,870
+194,194,Mass Market Edition,29778,"Phoenix, AZ",13.41,839
+195,195,Mass Market Edition,7853,"Nashville, TN",15.35,4340
+196,196,Second Edition,38032,"Phoenix, AZ",4.82,2887
+197,197,Special Edition,34601,"Seattle, WA",4.3,1882
+198,198,Limited Edition,38717,"Seattle, WA",3.91,4380
+199,199,Paperback Edition,4146,"Seattle, WA",4.55,3603
+200,200,Paperback Edition,37456,"Nashville, TN",11.16,2724
+201,201,Limited Edition,1926,"Atlanta, GA",6.44,224
+202,202,Limited Edition,14780,"Denver, CO",3.63,3670
+203,203,Third Edition,46400,"Memphis, TN",10.89,693
+204,204,First Edition,31437,"Nashville, TN",6.95,1674
+205,205,Special Edition,9375,"Atlanta, GA",8.3,3333
+206,206,Paperback Edition,25239,"Atlanta, GA",3.74,4617
+207,207,Second Edition,43330,"New York, NY",4.34,4601
+208,208,Paperback Edition,35158,"Chicago, IL",13.78,2024
+209,209,Special Edition,727,"Nashville, TN",17.67,3992
+210,210,Limited Edition,47626,"Phoenix, AZ",9.07,3307
+211,211,Special Edition,15551,"Dallas, TX",9.64,1470
+212,212,Third Edition,12852,"Memphis, TN",3.0,3634
+213,213,Mass Market Edition,1525,"Dallas, TX",5.69,1026
+214,214,Mass Market Edition,2700,"Seattle, WA",11.77,598
+215,215,Second Edition,49032,"Nashville, TN",8.74,2119
+216,216,Mass Market Edition,14738,"Nashville, TN",4.67,2569
+217,217,Second Edition,48440,"Denver, CO",7.44,2826
+218,218,Second Edition,20276,"Chicago, IL",17.78,4470
+219,219,Second Edition,27603,"Los Angeles, CA",6.76,4760
+220,220,Mass Market Edition,48682,"Chicago, IL",12.2,3699
+221,221,Mass Market Edition,32981,"Nashville, TN",17.57,3322
+222,222,Special Edition,34871,"New York, NY",13.29,3544
+223,223,Second Edition,20153,"Atlanta, GA",5.35,4606
+224,224,Paperback Edition,16292,"Dallas, TX",7.16,1382
+225,225,Special Edition,30844,"Nashville, TN",11.22,3612
+226,226,Mass Market Edition,35233,"Chicago, IL",8.52,2288
+227,227,Second Edition,22144,"Memphis, TN",16.79,3239
+228,228,First Edition,35603,"Dallas, TX",3.3,3289
+229,229,Limited Edition,40147,"Denver, CO",3.11,796
+230,230,Second Edition,39007,"Phoenix, AZ",5.86,1911
+231,231,Special Edition,22321,"Los Angeles, CA",17.33,325
+232,232,Second Edition,12953,"Memphis, TN",14.08,4123
+233,233,Second Edition,46088,"Denver, CO",13.41,3449
+234,234,Second Edition,36681,"New York, NY",14.52,3318
+235,235,Paperback Edition,35473,"New York, NY",7.28,3146
+236,236,Mass Market Edition,33089,"Seattle, WA",4.03,4046
+237,237,Special Edition,21486,"Dallas, TX",8.25,3590
+238,238,First Edition,37365,"Dallas, TX",13.99,332
+239,239,Third Edition,36761,"Denver, CO",11.48,3620
+240,240,Third Edition,10488,"Dallas, TX",7.61,3311
+241,241,Mass Market Edition,16604,"Seattle, WA",11.03,2965
+242,242,Third Edition,32522,"Seattle, WA",9.64,3085
+243,243,Second Edition,9672,"Phoenix, AZ",10.07,4641
+244,244,Limited Edition,4349,"Phoenix, AZ",3.02,808
+245,245,Special Edition,44292,"Nashville, TN",14.35,3578
+246,246,Second Edition,41833,"Dallas, TX",3.55,1437
+247,247,First Edition,14834,"Phoenix, AZ",9.57,695
+248,248,Mass Market Edition,42294,"Denver, CO",16.65,4196
+249,249,First Edition,933,"Phoenix, AZ",11.05,297
+250,250,First Edition,35195,"Los Angeles, CA",10.8,2548
+251,251,First Edition,33413,"Atlanta, GA",15.0,1668
+252,252,First Edition,6812,"Phoenix, AZ",4.81,1772
+253,253,Mass Market Edition,35001,"Los Angeles, CA",15.14,2389
+254,254,Special Edition,26511,"Memphis, TN",8.28,3526
+255,255,Paperback Edition,37527,"Dallas, TX",17.85,2050
+256,256,Third Edition,45329,"Memphis, TN",12.63,459
+257,257,First Edition,27060,"Atlanta, GA",8.35,4099
+258,258,First Edition,42229,"Nashville, TN",13.39,877
+259,259,Paperback Edition,28936,"New York, NY",11.27,981
+260,260,Mass Market Edition,3288,"Dallas, TX",5.78,4843
+261,261,Paperback Edition,18266,"Nashville, TN",16.82,2496
+262,262,Mass Market Edition,37430,"Nashville, TN",5.28,2776
+263,263,First Edition,14076,"Denver, CO",4.73,3462
+264,264,First Edition,20113,"Chicago, IL",11.24,4842
+265,265,Special Edition,26003,"Phoenix, AZ",7.64,1346
+266,266,Special Edition,45674,"Memphis, TN",10.26,3033
+267,267,First Edition,6901,"Atlanta, GA",6.1,822
+268,268,Third Edition,40160,"Denver, CO",17.3,3449
+269,269,Special Edition,21889,"Nashville, TN",12.33,3890
+270,270,Paperback Edition,15451,"New York, NY",11.07,3275
+271,271,Paperback Edition,12672,"Denver, CO",12.74,902
+272,272,Special Edition,41041,"Los Angeles, CA",14.87,802
+273,273,First Edition,18061,"Chicago, IL",8.39,1463
+274,274,Limited Edition,26034,"New York, NY",8.09,949
+275,275,First Edition,20702,"Seattle, WA",8.08,2409
+276,276,First Edition,9183,"Memphis, TN",5.4,3876
+277,277,Mass Market Edition,36855,"Phoenix, AZ",8.82,415
+278,278,First Edition,23694,"Phoenix, AZ",3.94,2857
+279,279,Special Edition,25746,"Nashville, TN",7.02,3376
+280,280,Special Edition,6050,"Phoenix, AZ",16.53,2188
+281,281,Mass Market Edition,34651,"Chicago, IL",13.12,1588
+282,282,Second Edition,18123,"Los Angeles, CA",6.66,1395
+283,283,First Edition,11458,"Atlanta, GA",6.78,2655
+284,284,Paperback Edition,5541,"New York, NY",6.4,2220
+285,285,Limited Edition,41462,"Seattle, WA",11.7,1801
+286,286,Paperback Edition,7510,"Chicago, IL",7.22,3441
+287,287,Third Edition,41144,"Atlanta, GA",14.96,2899
+288,288,Paperback Edition,22437,"Atlanta, GA",15.14,1315
+289,289,Third Edition,21515,"Denver, CO",17.18,1845
+290,290,Paperback Edition,21090,"Chicago, IL",17.45,2814
+291,291,Third Edition,48660,"Seattle, WA",17.5,2185
+292,292,Third Edition,25145,"Los Angeles, CA",15.16,3418
+293,293,Third Edition,7963,"Denver, CO",5.6,4669
+294,294,Second Edition,45176,"Phoenix, AZ",2.92,3981
+295,295,Limited Edition,14239,"Seattle, WA",14.86,766
+296,296,Special Edition,27313,"Seattle, WA",4.66,2680
+297,297,Second Edition,17059,"Chicago, IL",13.59,3288
+298,298,First Edition,29930,"Denver, CO",9.93,3483
+299,299,Mass Market Edition,33701,"Atlanta, GA",10.93,3145
+300,300,Limited Edition,35686,"Denver, CO",12.39,896
+301,301,First Edition,16768,"New York, NY",5.08,562
+302,302,Mass Market Edition,42772,"Atlanta, GA",17.49,2916
+303,303,Special Edition,28710,"Memphis, TN",2.66,2319
+304,304,Second Edition,33967,"Phoenix, AZ",11.15,4912
+305,305,Second Edition,29714,"New York, NY",8.56,4299
+306,306,Second Edition,23107,"Nashville, TN",9.98,2620
+307,307,Paperback Edition,6126,"Memphis, TN",15.39,1360
+308,308,Third Edition,20940,"New York, NY",9.56,1894
+309,309,Mass Market Edition,32149,"New York, NY",9.88,3789
+310,310,Limited Edition,46163,"Seattle, WA",7.44,2659
+311,311,First Edition,47081,"Memphis, TN",2.85,3010
+312,312,Limited Edition,7667,"Chicago, IL",16.91,2198
+313,313,Mass Market Edition,11932,"Phoenix, AZ",4.98,4786
+314,314,Paperback Edition,30781,"Dallas, TX",14.87,1711
+315,315,Second Edition,42474,"Atlanta, GA",8.63,1816
+316,316,Paperback Edition,25453,"Dallas, TX",11.79,2086
+317,317,Second Edition,9232,"Memphis, TN",6.39,3338
+318,318,Mass Market Edition,45346,"Phoenix, AZ",3.89,4208
+319,319,Second Edition,28132,"Denver, CO",11.62,3263
+320,320,Special Edition,25935,"Dallas, TX",4.86,1666
+321,321,Special Edition,37653,"New York, NY",3.79,4531
+322,322,Limited Edition,6254,"Seattle, WA",7.4,549
+323,323,Third Edition,37065,"Nashville, TN",9.09,3169
+324,324,Mass Market Edition,5796,"Seattle, WA",10.54,1822
+325,325,Mass Market Edition,30823,"Nashville, TN",8.04,1968
+326,326,Limited Edition,11038,"Seattle, WA",11.73,1655
+327,327,Mass Market Edition,43773,"Chicago, IL",3.07,390
+328,328,Second Edition,31546,"Atlanta, GA",3.76,3685
+329,329,Limited Edition,6137,"Chicago, IL",7.3,246
+330,330,Paperback Edition,22107,"Chicago, IL",10.61,1844
+331,331,Special Edition,4130,"Dallas, TX",9.37,4668
+332,332,Paperback Edition,8780,"New York, NY",17.09,4100
+333,333,First Edition,9080,"Denver, CO",14.57,1432
+334,334,Mass Market Edition,27258,"Memphis, TN",4.0,1376
+335,335,Third Edition,11912,"Chicago, IL",8.85,1900
+336,336,Mass Market Edition,21412,"Seattle, WA",14.87,2310
+337,337,First Edition,24204,"Chicago, IL",13.01,4306
+338,338,Third Edition,1230,"Denver, CO",15.4,2964
+339,339,Special Edition,17062,"New York, NY",5.56,1782
+340,340,Special Edition,8040,"Los Angeles, CA",9.88,4770
+341,341,Mass Market Edition,16085,"Chicago, IL",11.12,4301
+342,342,First Edition,18846,"Nashville, TN",15.45,4272
+343,343,Second Edition,13032,"Phoenix, AZ",17.96,3383
+344,344,Second Edition,22224,"New York, NY",4.32,4713
+345,345,Special Edition,17562,"Phoenix, AZ",9.78,2048
+346,346,Second Edition,5210,"Memphis, TN",15.6,4788
+347,347,Paperback Edition,39514,"Phoenix, AZ",3.68,1937
+348,348,Limited Edition,22053,"Memphis, TN",3.97,3978
+349,349,Special Edition,5699,"Phoenix, AZ",17.59,2427
+350,350,Paperback Edition,41595,"Phoenix, AZ",17.62,3078
+351,351,Mass Market Edition,4195,"Atlanta, GA",14.14,4549
+352,352,Second Edition,14862,"Denver, CO",9.82,1333
+353,353,Special Edition,25687,"Nashville, TN",17.18,487
+354,354,First Edition,32993,"Nashville, TN",14.06,3745
+355,355,First Edition,17279,"Phoenix, AZ",16.53,4204
+356,356,First Edition,43141,"Seattle, WA",15.25,979
+357,357,Second Edition,20045,"Phoenix, AZ",3.92,4177
+358,358,Third Edition,49701,"Atlanta, GA",11.42,709
+359,359,Special Edition,32050,"Chicago, IL",14.29,418
+360,360,Limited Edition,1037,"Dallas, TX",3.87,4019
+361,361,First Edition,26075,"Seattle, WA",4.1,1311
+362,362,Second Edition,17639,"Dallas, TX",14.46,904
+363,363,Second Edition,11264,"Chicago, IL",2.89,2111

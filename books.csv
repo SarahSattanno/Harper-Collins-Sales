@@ -1,0 +1,364 @@
+id,ISBN,title,genre,language,imprint,release_date
+1,978-1-5011-8350-3,It Ends with Us,Romance,English,Atria Books,2016-08-02
+2,978-1-5011-8351-0,Ugly Love,Romance,English,Atria Books,2014-08-05
+3,978-1-5011-8352-7,Verity,Thriller,English,Grand Central Publishing,2018-12-10
+4,978-1-6680-1234-5,It Starts with Us,Romance,English,Atria Books,2022-10-18
+5,978-1-6680-2345-6,November 9,Romance,English,Atria Books,2015-11-10
+6,978-1-6680-3456-7,Confess,Romance,English,Atria Books,2015-03-10
+7,978-1-6680-4567-8,Reminders of Him,Romance,English,Montlake Romance,2022-01-18
+8,978-1-6680-5678-9,Heart Bones,Romance,English,Montlake Romance,2020-09-01
+9,978-0-3850-0151-3,The Shining,Horror,English,Doubleday,1977-01-28
+10,978-0-3850-0334-0,It,Horror,English,Viking,1986-09-15
+11,978-0-6700-3700-6,The Stand,Horror,English,Doubleday,1978-10-03
+12,978-1-9821-8076-0,Fairy Tale,Fantasy,English,Scribner,2022-09-06
+13,978-1-9821-7440-0,Later,Thriller,English,Hard Case Crime,2021-03-02
+14,978-1-5011-9382-3,Billy Summers,Thriller,English,Scribner,2021-08-03
+15,978-1-6680-6789-0,Holly,Thriller,English,Scribner,2023-09-05
+16,978-1-6680-7890-1,You Like It Darker,Horror,English,Scribner,2024-05-21
+17,978-1-6680-8901-2,The Life of Chuck,Drama,English,Scribner,2025-06-03
+18,978-0-0606-1639-4,American Gods,Fantasy,English,William Morrow,2001-06-19
+19,978-0-0606-1952-4,Good Omens,Fantasy,English,Workman Publishing,1990-05-01
+20,978-0-0606-2025-7,Coraline,Fantasy,English,HarperCollins,2002-07-02
+21,978-0-0606-2026-4,Anansi Boys,Fantasy,English,William Morrow,2005-09-20
+22,978-0-0606-2027-1,The Graveyard Book,Fantasy,English,HarperCollins,2008-09-30
+23,978-1-6680-9012-3,Norse Mythology,Mythology,English,W.W. Norton,2017-02-07
+24,978-0-0622-5274-3,The Alchemist,Fiction,English,HarperOne,1988-01-01
+25,978-0-0622-5275-0,Eleven Minutes,Fiction,English,HarperCollins,2003-04-01
+26,978-0-0622-5276-7,The Zahir,Fiction,English,HarperCollins,2005-04-26
+27,978-0-0622-5277-4,Brida,Fiction,English,HarperOne,2008-08-19
+28,978-1-5264-3885-7,The Kite Runner,Fiction,English,Riverhead Books,2003-05-29
+29,978-1-5264-3886-4,A Thousand Splendid Suns,Fiction,English,Riverhead Books,2007-05-22
+30,978-1-5264-3887-1,And the Mountains Echoed,Fiction,English,Riverhead Books,2013-05-21
+31,978-0-7434-5453-1,My Sister's Keeper,Fiction,English,Atria Books,2004-04-06
+32,978-0-7434-5454-8,The Storyteller,Fiction,English,Atria Books,2013-02-26
+33,978-0-7434-5455-5,Small Great Things,Fiction,English,Ballantine Books,2016-10-11
+34,978-1-9848-0012-3,Wish You Were Here,Fiction,English,Ballantine Books,2021-11-30
+35,978-1-9848-0013-0,Mad Honey,Fiction,English,Ballantine Books,2022-10-04
+36,978-1-9848-0014-7,By Any Other Name,Fiction,English,Ballantine Books,2024-09-17
+37,978-0-4462-3523-1,The Notebook,Romance,English,Warner Books,1996-10-01
+38,978-0-4462-3524-8,A Walk to Remember,Romance,English,Warner Books,1999-10-01
+39,978-0-4462-3525-5,The Lucky One,Romance,English,Grand Central Publishing,2008-09-30
+40,978-0-4462-3526-2,Safe Haven,Romance,English,Grand Central Publishing,2010-09-14
+41,978-1-5387-1892-3,The Longest Ride,Romance,English,Grand Central Publishing,2013-09-17
+42,978-1-5387-1893-0,Every Breath,Romance,English,Grand Central Publishing,2018-10-16
+43,978-1-5387-1894-7,The Return,Romance,English,Grand Central Publishing,2020-09-29
+44,978-1-5387-1895-4,Dreamland,Romance,English,Random House,2022-09-20
+45,978-0-3160-6034-0,The Lincoln Lawyer,Mystery,English,"Little, Brown",2005-10-17
+46,978-0-3160-6035-7,The Brass Verdict,Mystery,English,"Little, Brown",2008-10-14
+47,978-0-3160-6036-4,The Reversal,Mystery,English,"Little, Brown",2010-10-26
+48,978-0-3160-6037-1,The Gods of Guilt,Mystery,English,"Little, Brown",2013-12-03
+49,978-0-3160-6038-8,The Dark Hours,Mystery,English,"Little, Brown",2021-11-09
+50,978-0-3160-6039-5,The Desert Star,Mystery,English,"Little, Brown",2022-11-08
+51,978-1-5387-2345-6,The Waiting,Mystery,English,"Little, Brown",2024-10-15
+52,978-0-3160-4316-9,Along Came a Spider,Thriller,English,"Little, Brown",1993-03-01
+53,978-0-3160-4317-6,Kiss the Girls,Thriller,English,"Little, Brown",1995-04-01
+54,978-0-3160-4318-3,1st to Die,Mystery,English,"Little, Brown",2001-03-01
+55,978-0-3160-4319-0,12th of Never,Mystery,English,"Little, Brown",2013-04-08
+56,978-1-5387-3456-7,The House of Cross,Thriller,English,"Little, Brown",2024-11-04
+57,978-1-5387-4567-8,"Holmes, Marple & Poe",Mystery,English,"Little, Brown",2023-10-09
+58,978-0-5255-3337-8,Find Her,Thriller,English,Dutton,2016-02-23
+59,978-0-5255-3338-5,Look for Me,Thriller,English,Dutton,2018-02-20
+60,978-0-5255-3339-2,Never Tell,Thriller,English,Dutton,2019-02-19
+61,978-0-5255-3340-8,Before She Disappeared,Thriller,English,Dutton,2021-02-23
+62,978-1-5387-5678-9,Still See You Everywhere,Thriller,English,Dutton,2024-03-19
+63,978-0-3853-3706-5,Gone Girl,Thriller,English,Crown Publishing,2012-06-05
+64,978-0-3853-3707-2,Dark Places,Thriller,English,Shaye Areheart Books,2009-05-05
+65,978-0-3853-3708-9,Sharp Objects,Thriller,English,Shaye Areheart Books,2006-09-26
+66,978-0-3940-0135-9,Beloved,Fiction,English,Alfred A. Knopf,1987-09-16
+67,978-0-3940-0136-6,Song of Solomon,Fiction,English,Alfred A. Knopf,1977-09-01
+68,978-0-3940-0137-3,The Bluest Eye,Fiction,English,"Holt, Rinehart and Winston",1970-11-09
+69,978-0-7352-1122-4,Everything I Never Told You,Fiction,English,Penguin Press,2014-05-14
+70,978-0-7352-1123-1,Little Fires Everywhere,Fiction,English,Penguin Press,2017-09-12
+71,978-0-5251-7236-7,Our Missing Hearts,Fiction,English,Penguin Press,2022-10-04
+72,978-1-4767-4658-6,All the Light We Cannot See,Historical Fiction,English,Scribner,2014-05-06
+73,978-1-9821-8501-7,Cloud Cuckoo Land,Fiction,English,Scribner,2021-09-28
+74,978-0-0628-8936-5,The Alice Network,Historical Fiction,English,William Morrow,2017-06-06
+75,978-0-0628-8937-2,The Huntress,Historical Fiction,English,William Morrow,2019-04-02
+76,978-0-0628-8938-9,The Rose Code,Historical Fiction,English,William Morrow,2021-03-09
+77,978-0-0628-8939-6,The Diamond Eye,Historical Fiction,English,William Morrow,2022-03-29
+78,978-0-0628-8940-2,The Briar Club,Historical Fiction,English,William Morrow,2024-07-02
+79,978-1-5011-5892-1,The Family Upstairs,Thriller,English,Atria Books,2019-08-06
+80,978-1-5011-5893-8,Then She Was Gone,Thriller,English,Atria Books,2017-05-04
+81,978-1-5011-5894-5,Invisible Girl,Thriller,English,Atria Books,2020-09-24
+82,978-1-5011-5895-2,The Night She Disappeared,Thriller,English,Atria Books,2021-07-01
+83,978-1-5011-5896-9,None of This Is True,Thriller,English,Atria Books,2023-07-06
+84,978-0-5255-3300-2,Tell No One,Mystery,English,Delacorte Press,2001-03-27
+85,978-0-5255-3301-9,Gone for Good,Mystery,English,Delacorte Press,2002-05-07
+86,978-0-5255-3302-6,The Innocent,Mystery,English,Dutton,2005-03-29
+87,978-1-5387-6789-0,I Will Find You,Mystery,English,Grand Central Publishing,2023-07-18
+88,978-1-5387-7890-1,We'll Never Tell,Mystery,English,Grand Central Publishing,2026-03-17
+89,978-0-4462-4038-9,Absolute Power,Thriller,English,Warner Books,1996-01-01
+90,978-0-4462-4039-6,The Camel Club,Thriller,English,Warner Books,2005-10-18
+91,978-1-5387-8901-2,The 6:20 Man,Thriller,English,Grand Central Publishing,2022-06-07
+92,978-1-5387-9012-3,The Edge,Thriller,English,Grand Central Publishing,2023-04-18
+93,978-1-6680-0123-4,To Die For,Thriller,English,Grand Central Publishing,2024-04-23
+94,978-1-6680-1235-2,Simply Lies,Thriller,English,Grand Central Publishing,2023-05-23
+95,978-0-3850-2946-4,Outlander,Historical Fiction,English,Delacorte Press,1991-06-01
+96,978-0-3850-2947-1,Dragonfly in Amber,Historical Fiction,English,Delacorte Press,1992-07-01
+97,978-0-3850-2948-8,Voyager,Historical Fiction,English,Delacorte Press,1993-10-01
+98,978-0-3850-2949-5,The Drums of Autumn,Historical Fiction,English,Delacorte Press,1996-10-01
+99,978-0-4512-3670-0,The Pillars of the Earth,Historical Fiction,English,William Morrow,1989-08-05
+100,978-0-4512-3671-7,World Without End,Historical Fiction,English,Dutton,2007-10-04
+101,978-0-4512-3672-4,Fall of Giants,Historical Fiction,English,Dutton,2010-09-28
+102,978-1-5387-0123-4,The Armor of Light,Historical Fiction,English,Viking,2023-10-24
+103,978-0-0621-4576-4,The Last Kingdom,Historical Fiction,English,HarperCollins,2004-11-02
+104,978-0-0621-4577-1,The Pale Horseman,Historical Fiction,English,HarperCollins,2005-11-10
+105,978-0-0621-4578-8,Lords of the North,Historical Fiction,English,HarperCollins,2006-10-26
+106,978-1-6680-2346-3,War Lord,Historical Fiction,English,HarperCollins,2020-10-15
+107,978-0-4462-3789-1,The Kill Artist,Thriller,English,Random House,2000-07-11
+108,978-0-4462-3790-7,The English Assassin,Thriller,English,Putnam,2002-06-04
+109,978-0-0628-8450-6,The Collector,Thriller,English,Harper,2023-07-11
+110,978-0-0628-8451-3,A Death in Cornwall,Thriller,English,Harper,2024-07-09
+111,978-0-0628-8452-0,The Cellist,Thriller,English,Harper,2021-07-13
+112,978-0-3850-4033-7,The Firm,Legal Thriller,English,Doubleday,1991-02-01
+113,978-0-3850-4034-4,The Pelican Brief,Legal Thriller,English,Doubleday,1992-03-01
+114,978-0-3850-4035-1,A Time to Kill,Legal Thriller,English,Wynwood Press,1989-06-01
+115,978-0-3850-4036-8,The Innocent Man,Nonfiction,English,Doubleday,2006-10-10
+116,978-0-3850-4037-5,The Motive,Legal Thriller,English,Doubleday,2023-10-17
+117,978-1-6680-3457-4,The Exchange,Legal Thriller,English,Doubleday,2023-10-17
+118,978-1-7802-2456-8,Pretty Girls,Thriller,English,William Morrow,2015-08-25
+119,978-1-7802-2457-5,The Good Daughter,Thriller,English,William Morrow,2017-08-22
+120,978-1-7802-2458-2,Pieces of Her,Thriller,English,William Morrow,2018-08-21
+121,978-1-7802-2459-9,After That Night,Thriller,English,William Morrow,2023-08-22
+122,978-1-7802-2460-5,This Is Why We Lied,Thriller,English,William Morrow,2024-08-20
+123,978-0-3458-4995-5,The Surgeon,Thriller,English,Ballantine Books,2001-08-01
+124,978-0-3458-4996-2,The Apprentice,Thriller,English,Ballantine Books,2002-07-01
+125,978-0-3458-4997-9,Ice Cold,Thriller,English,Ballantine Books,2010-08-03
+126,978-1-6680-4568-5,Listen to Me,Thriller,English,Ballantine Books,2022-08-02
+127,978-1-6680-5679-2,Girl Forgotten,Thriller,English,Ballantine Books,2023-07-25
+128,978-1-4472-5290-4,The Crow Trap,Mystery,English,Macmillan,1999-09-27
+129,978-1-4472-5291-1,Vera,Mystery,English,Macmillan,2011-02-01
+130,978-1-4472-5292-8,The Long Call,Mystery,English,Minotaur Books,2019-09-17
+131,978-1-4472-5293-5,The Heron's Cry,Mystery,English,Minotaur Books,2021-08-12
+132,978-0-3407-5133-3,The Monogram Murders,Mystery,English,William Morrow,2014-09-09
+133,978-0-3407-5134-0,Closed Casket,Mystery,English,William Morrow,2016-09-06
+134,978-0-3407-5135-7,The Mystery of Three Quarters,Mystery,English,William Morrow,2018-09-18
+135,978-0-3160-6649-6,Case Histories,Mystery,English,"Little, Brown",2004-10-05
+136,978-0-3160-6650-2,One Good Turn,Mystery,English,"Little, Brown",2006-10-10
+137,978-0-3160-6651-9,Life After Life,Fiction,English,"Little, Brown",2013-04-02
+138,978-0-3160-6652-6,A God in Ruins,Fiction,English,"Little, Brown",2015-05-05
+139,978-0-0062-9940-6,A Place of Execution,Mystery,English,HarperCollins,1999-09-06
+140,978-0-0062-9941-3,The Mermaids Singing,Mystery,English,HarperCollins,1995-05-01
+141,978-0-0062-9942-0,How the Dead Speak,Mystery,English,Atlantic Monthly Press,2019-08-27
+142,978-0-3168-7518-6,Knots and Crosses,Mystery,English,Orion,1987-01-01
+143,978-0-3168-7519-3,Hide and Seek,Mystery,English,Orion,1990-01-01
+144,978-0-3168-7520-9,The Naming of the Dead,Mystery,English,Orion,2006-10-05
+145,978-1-4090-0123-4,A Heart Full of Headstones,Mystery,English,Orion,2022-10-27
+146,978-1-4090-1234-5,Midnight and Blue,Mystery,English,Orion,2023-10-19
+147,978-0-6798-7590-4,The Remains of the Day,Fiction,English,Faber and Faber,1989-05-15
+148,978-0-6798-7591-1,Never Let Me Go,Fiction,English,Faber and Faber,2005-03-22
+149,978-0-6798-7592-8,Klara and the Sun,Fiction,English,Knopf,2021-03-02
+150,978-0-3850-5897-4,Atonement,Fiction,English,Jonathan Cape,2001-09-17
+151,978-0-3850-5898-1,Saturday,Fiction,English,Jonathan Cape,2005-02-05
+152,978-0-3850-5899-8,Solar,Fiction,English,Jonathan Cape,2010-03-18
+153,978-1-9821-9234-5,Lessons,Fiction,English,Knopf,2022-10-11
+154,978-0-6700-7750-3,Midnight's Children,Fiction,English,Jonathan Cape,1981-04-01
+155,978-0-6700-7751-0,The Satanic Verses,Fiction,English,Viking,1988-09-26
+156,978-0-3959-4870-2,Victory City,Fiction,English,Random House,2023-02-07
+157,978-0-3750-4986-7,White Teeth,Fiction,English,Random House,2000-01-27
+158,978-0-3750-4987-4,NW,Fiction,English,Penguin Press,2012-09-04
+159,978-0-3750-4988-1,The Fraud,Fiction,English,Penguin Press,2023-09-05
+160,978-0-3071-4068-8,The Secret History,Fiction,English,Alfred A. Knopf,1992-09-16
+161,978-0-3071-4069-5,The Little Friend,Fiction,English,Alfred A. Knopf,2002-11-05
+162,978-0-3071-4070-1,The Goldfinch,Fiction,English,"Little, Brown",2013-10-22
+163,978-0-0608-9308-3,The Poisonwood Bible,Fiction,English,HarperFlamingo,1998-09-07
+164,978-0-0608-9309-0,Prodigal Summer,Fiction,English,HarperCollins,2000-10-03
+165,978-0-0608-9310-6,Unsheltered,Fiction,English,HarperCollins,2018-10-16
+166,978-0-0608-9311-3,Demon Copperhead,Fiction,English,Harper,2022-10-18
+167,978-0-0606-2280-0,Bel Canto,Fiction,English,HarperCollins,2001-06-04
+168,978-0-0606-2281-7,Run,Fiction,English,HarperCollins,2007-09-25
+169,978-0-0606-2282-4,Commonwealth,Fiction,English,Harper,2016-09-13
+170,978-0-0606-2283-1,The Dutch House,Fiction,English,Harper,2019-09-24
+171,978-0-0606-2284-8,Tom Lake,Fiction,English,Harper,2023-08-01
+172,978-1-4000-6207-3,Olive Kitteridge,Fiction,English,Random House,2008-03-25
+173,978-1-9848-0123-4,Oh William!,Fiction,English,Random House,2021-10-19
+174,978-1-9848-0124-1,Lucy by the Sea,Fiction,English,Random House,2022-09-20
+175,978-1-9848-0125-8,Tell Me Everything,Fiction,English,Random House,2024-10-15
+176,978-0-7710-0813-4,The Handmaid's Tale,Dystopian Fiction,English,McClelland and Stewart,1985-06-01
+177,978-0-7710-0814-1,The Blind Assassin,Fiction,English,McClelland and Stewart,2000-09-01
+178,978-0-7710-0815-8,The Testaments,Dystopian Fiction,English,Doubleday,2019-09-10
+179,978-0-7710-0816-5,MaddAddam,Fiction,English,Doubleday,2013-09-03
+180,978-1-6128-0025-4,Fifty Shades of Grey,Romance,English,Vintage,2012-04-03
+181,978-1-6128-0026-1,Fifty Shades Darker,Romance,English,Vintage,2012-09-13
+182,978-1-6128-0027-8,Fifty Shades Freed,Romance,English,Vintage,2012-09-18
+183,978-0-5150-2946-9,The Next Always,Romance,English,Berkley,2011-11-01
+184,978-0-5150-2947-6,The Last Boyfriend,Romance,English,Berkley,2012-03-06
+185,978-0-5150-2948-3,Inheritance,Romance,English,St. Martin's Press,2023-11-14
+186,978-0-5150-2949-0,Identity,Romance,English,St. Martin's Press,2023-05-23
+187,978-0-5150-2950-6,The Choice,Romance,English,St. Martin's Press,2024-11-12
+188,978-0-3800-3124-0,The Duke and I,Romance,English,Avon,2000-09-05
+189,978-0-3800-3125-7,The Viscount Who Loved Me,Romance,English,Avon,2000-11-28
+190,978-0-3800-3126-4,An Offer from a Gentleman,Romance,English,Avon,2001-09-25
+191,978-0-3800-3127-1,Romancing Mr. Bridgerton,Romance,English,Avon,2002-05-28
+192,978-1-6680-6780-7,Queen Charlotte,Romance,English,Avon,2023-05-09
+193,978-0-3850-9879-0,Crazy Rich Asians,Fiction,English,Doubleday,2013-06-11
+194,978-0-3850-9880-6,China Rich Girlfriend,Fiction,English,Doubleday,2015-06-16
+195,978-0-3850-9881-3,Rich People Problems,Fiction,English,Doubleday,2017-05-23
+196,978-0-6701-4430-4,Rules of Civility,Fiction,English,Viking,2011-07-26
+197,978-0-6701-4431-1,A Gentleman in Moscow,Fiction,English,Viking,2016-09-06
+198,978-0-6701-4432-8,The Lincoln Highway,Fiction,English,Viking,2021-10-05
+199,978-0-6701-4433-5,Table for Two,Fiction,English,Viking,2024-04-09
+200,978-1-4091-4389-0,Magpie Murders,Mystery,English,Harper,2016-10-06
+201,978-1-4091-4390-6,Moonflower Murders,Mystery,English,Harper,2020-07-16
+202,978-1-4091-4391-3,A Line to Kill,Mystery,English,Harper,2021-10-12
+203,978-1-4091-4392-0,The Sentence is Death,Mystery,English,Harper,2018-09-11
+204,978-1-6680-7891-8,Stone Cold Dead,Mystery,English,Harper,2023-09-12
+205,978-1-6680-8902-9,The Twist of a Knife,Mystery,English,Harper,2022-11-01
+206,978-0-5152-1866-3,Killing Floor,Thriller,English,Putnam,1997-03-17
+207,978-0-5152-1867-0,Die Trying,Thriller,English,Putnam,1998-03-23
+208,978-0-5152-1868-7,Echo Burning,Thriller,English,Putnam,2001-05-29
+209,978-1-9848-0345-2,The Secret,Thriller,English,Delacorte Press,2023-10-26
+210,978-1-9848-0346-9,In Too Deep,Thriller,English,Delacorte Press,2024-10-22
+211,978-0-8041-3902-1,The Martian,Science Fiction,English,Crown Publishers,2014-02-11
+212,978-0-5938-0103-4,Artemis,Science Fiction,English,Crown Publishers,2017-11-14
+213,978-0-5938-0104-1,Project Hail Mary,Science Fiction,English,Ballantine Books,2021-05-04
+214,978-0-5938-0105-8,Interstellar,Science Fiction,English,Ballantine Books,2025-05-20
+215,978-1-5247-6192-7,Dark Matter,Science Fiction,English,Crown Publishers,2016-07-26
+216,978-1-5247-6193-4,Recursion,Science Fiction,English,Crown Publishers,2019-06-11
+217,978-1-5247-6194-1,Upgrade,Science Fiction,English,Ballantine Books,2022-07-12
+218,978-1-5247-6195-8,Playground,Science Fiction,English,Ballantine Books,2024-07-16
+219,978-0-6168-5108-3,The Bone Collector,Thriller,English,Viking,1997-08-01
+220,978-0-6168-5109-0,The Coffin Dancer,Thriller,English,Simon & Schuster,1998-07-01
+221,978-0-6168-5110-6,The Midnight Lock,Thriller,English,Grand Central Publishing,2021-09-21
+222,978-0-6168-5111-3,The Watchmaker's Hand,Thriller,English,Grand Central Publishing,2023-01-24
+223,978-0-4522-8839-3,No Time for Goodbye,Thriller,English,Bantam,2007-05-01
+224,978-0-4522-8840-9,Fear the Worst,Thriller,English,Bantam,2009-06-23
+225,978-0-5930-7654-3,Take Your Breath Away,Thriller,English,William Morrow,2022-03-08
+226,978-0-5930-7655-0,Safe House,Thriller,English,William Morrow,2023-06-06
+227,978-0-3990-1572-0,Big Little Lies,Fiction,English,Putnam,2014-07-29
+228,978-0-3990-1573-7,Nine Perfect Strangers,Fiction,English,Flatiron Books,2018-11-06
+229,978-1-2501-5234-5,Apples Never Fall,Fiction,English,Henry Holt,2021-09-14
+230,978-1-2501-5235-2,Here One Moment,Fiction,English,Crown,2024-09-10
+231,978-0-5718-4673-7,Conversations with Friends,Fiction,English,Faber & Faber,2017-05-30
+232,978-0-5718-4674-4,Normal People,Fiction,English,Faber & Faber,2018-08-30
+233,978-0-5718-4675-1,"Beautiful World, Where Are You",Fiction,English,Faber & Faber,2021-09-07
+234,978-0-5718-4676-8,Intermezzo,Fiction,English,"Farrar, Straus and Giroux",2024-09-24
+235,978-0-0228-3073-5,"Girl, Woman, Other",Fiction,English,Hamish Hamilton,2019-05-02
+236,978-0-0228-3074-2,Mr. Loverman,Fiction,English,Akashic Books,2013-09-05
+237,978-0-0228-3075-9,Blonde Roots,Fiction,English,Riverhead Books,2008-10-02
+238,978-0-3070-7822-4,Purple Hibiscus,Fiction,English,Algonquin Books,2003-10-07
+239,978-0-3070-7823-1,Half of a Yellow Sun,Historical Fiction,English,Knopf,2006-09-12
+240,978-0-3070-7824-8,Americanah,Fiction,English,Knopf,2013-05-14
+241,978-0-1249-8756-0,Homegoing,Historical Fiction,English,Knopf,2016-06-07
+242,978-0-5253-4527-5,Transcendent Kingdom,Fiction,English,Knopf,2020-09-01
+243,978-1-6161-5748-5,Silver Sparrow,Fiction,English,Algonquin Books,2011-05-03
+244,978-1-6161-5749-2,An American Marriage,Fiction,English,Algonquin Books,2018-02-06
+245,978-1-4424-5961-6,All American Boys,Young Adult,English,Atheneum,2015-09-29
+246,978-1-4814-6664-7,Long Way Down,Young Adult,English,Atheneum,2017-10-24
+247,978-1-5344-3680-7,Stamped,Nonfiction,English,"Little, Brown",2020-03-10
+248,978-1-5344-3681-4,Look Both Ways,Young Adult,English,Atheneum,2019-10-08
+249,978-0-7434-3540-4,The Lions of Lucerne,Thriller,English,Atria Books,2002-04-01
+250,978-0-7434-3541-1,Path of the Assassin,Thriller,English,Atria Books,2003-07-01
+251,978-1-9821-6789-3,Near Dark,Thriller,English,Atria Books,2020-07-07
+252,978-1-9821-6790-9,Rising Tiger,Thriller,English,Atria Books,2022-07-12
+253,978-1-9821-6791-6,Dead Fall,Thriller,English,Atria Books,2023-07-11
+254,978-1-9821-6792-3,Shadow of Doubt,Thriller,English,Atria Books,2024-07-09
+255,978-0-9986-6050-7,The Duchess War,Romance,English,Courtney Milan,2012-12-18
+256,978-0-9986-6051-4,The Suffragette Scandal,Romance,English,Courtney Milan,2014-07-15
+257,978-0-9986-6052-1,After the Wedding,Romance,English,Courtney Milan,2019-03-05
+258,978-0-4252-2804-5,Slave to Sensation,Paranormal Romance,English,Berkley,2006-09-05
+259,978-0-4252-2805-2,Visions of Heat,Paranormal Romance,English,Berkley,2007-03-06
+260,978-0-4252-2806-9,Archangel's Kiss,Paranormal Romance,English,Berkley,2010-02-02
+261,978-0-4415-7617-0,Moon Called,Paranormal Fiction,English,Ace,2006-01-31
+262,978-0-4415-7618-7,Blood Bound,Paranormal Fiction,English,Ace,2007-01-30
+263,978-0-4415-7619-4,Iron Kissed,Paranormal Fiction,English,Ace,2008-01-29
+264,978-0-4415-8440-3,Magic Bites,Urban Fantasy,English,Ace,2007-03-27
+265,978-0-4415-8441-0,Magic Burns,Urban Fantasy,English,Ace,2008-04-01
+266,978-0-4415-8442-7,Magic Strikes,Urban Fantasy,English,Ace,2009-03-31
+267,978-0-3753-0704-1,The No. 1 Ladies' Detective Agency,Mystery,English,Polygon,1998-09-10
+268,978-0-3753-0705-8,Tears of the Giraffe,Mystery,English,Polygon,2000-09-25
+269,978-0-3753-0706-5,The Woman Who Walked in Sunshine,Mystery,English,Pantheon,2015-10-27
+270,978-0-4416-8620-7,Dead Until Dark,Paranormal Fiction,English,Ace,2001-05-01
+271,978-0-4416-8621-4,Living Dead in Dallas,Paranormal Fiction,English,Ace,2002-04-02
+272,978-0-4416-8622-1,Club Dead,Paranormal Fiction,English,Ace,2003-05-06
+273,978-0-3858-4382-9,"My Sister, the Serial Killer",Fiction,English,Doubleday,2018-11-01
+274,978-0-3165-3405-7,We Need New Names,Fiction,English,"Little, Brown",2013-05-21
+275,978-0-3165-3406-4,Glory,Fiction,English,Viking,2022-02-08
+276,978-0-8129-9360-2,Behold the Dreamers,Fiction,English,Random House,2016-08-23
+277,978-0-8129-9361-9,How Beautiful We Were,Fiction,English,Random House,2021-03-09
+278,978-1-6680-9123-4,The Locked Door,Thriller,English,Atria Books,2025-01-14
+279,978-1-6680-9124-1,Never Never,Romance,English,Atria Books,2025-02-11
+280,978-1-6680-9125-8,The Women,Historical Fiction,English,St. Martin's Press,2024-02-06
+281,978-1-6680-9126-5,James,Fiction,English,Doubleday,2024-03-19
+282,978-1-6680-9127-2,All Fours,Fiction,English,Scribner,2024-05-14
+283,978-1-6680-9128-9,The God of the Woods,Fiction,English,Random House,2024-07-02
+284,978-1-6680-9129-6,Wind and Truth,Fantasy,English,Tor Books,2024-12-06
+285,978-1-6680-9130-2,The Emperor of All Maladies,Nonfiction,English,Scribner,2025-03-18
+286,978-1-6680-9131-9,A Court of Thorns and Roses,Fantasy,English,Bloomsbury,2025-04-01
+287,978-1-6680-9132-6,The Art Thief,Nonfiction,English,Knopf,2025-05-06
+288,978-1-6680-9133-3,Onyx Storm,Fantasy,English,Red Tower Books,2025-01-21
+289,978-1-6680-9134-0,The Night We Lost Him,Thriller,English,Atria Books,2025-06-17
+290,978-1-6680-9135-7,The Familiar,Fiction,English,Flatiron Books,2025-07-08
+291,978-1-6680-9136-4,All the Colors of the Dark,Thriller,English,Macmillan,2024-09-03
+292,978-1-6680-9137-1,Everyone Here Is Lying,Thriller,English,Viking,2023-07-25
+293,978-1-6680-9138-8,All the Dangerous Things,Thriller,English,Minotaur Books,2023-01-10
+294,978-1-6680-9139-5,Trial by Fire,Legal Thriller,English,Doubleday,2025-10-14
+295,978-1-6680-9140-1,The Covenant of Water,Fiction,English,Grove Press,2023-05-02
+296,978-1-6680-9141-8,The Reformatory,Historical Fiction,English,Tor Books,2023-10-31
+297,978-1-6680-9142-5,The Mysterious Case of the Alperton Angels,Mystery,English,Harper,2023-03-14
+298,978-1-6680-9143-2,Orbital,Fiction,English,Farrar Straus Giroux,2024-09-17
+299,978-1-6680-9144-9,The Women of Chateau Lafayette,Historical Fiction,English,Berkley,2021-03-30
+300,978-1-6680-9145-6,The Emperor's Blades,Fantasy,English,Tor Books,2025-08-12
+301,978-1-6680-9146-3,Someone Else's Shoes,Fiction,English,Pamela Dorman Books,2023-04-04
+302,978-1-6680-9147-0,Eruption,Thriller,English,"Little, Brown",2024-05-21
+303,978-1-6680-9148-7,Here After,Fiction,English,Random House,2026-02-04
+304,978-1-6680-9149-4,The House in the Pines,Thriller,English,Doubleday,2023-03-07
+305,978-1-6680-9150-0,The Women in the Walls,Thriller,English,Viking,2026-01-21
+306,978-1-6680-9151-7,The Perfect Marriage,Thriller,English,Grand Central Publishing,2026-03-18
+307,978-1-6680-9152-4,Orbital,Science Fiction,English,Tor Books,2026-04-15
+308,978-1-6680-9153-1,The God of Small Things,Fiction,English,HarperCollins,2026-05-12
+309,978-1-6680-9154-8,Long Island,Fiction,English,Scribner,2024-05-07
+310,978-1-6680-9155-5,James and the Giant Peach,Children's,English,Knopf,2026-06-09
+311,978-1-6680-9156-2,The Frozen River,Historical Fiction,English,Anchor,2023-10-03
+312,978-1-6680-9157-9,The Familiar,Fantasy,English,Random House,2026-07-22
+313,978-1-6680-9158-6,Come and Get It,Fiction,English,Riverhead,2025-02-25
+314,978-1-6680-9159-3,The God of the Woods 2,Fiction,English,Random House,2026-08-05
+315,978-1-6680-9160-9,The Women of Troy,Historical Fiction,English,Doubleday,2021-09-07
+316,978-0-3800-3128-8,"To Sir Phillip, With Love",Romance,English,Avon,2003-09-30
+317,978-0-3800-3129-5,When He Was Wicked,Romance,English,Avon,2004-09-28
+318,978-0-3800-3130-1,It's in His Kiss,Romance,English,Avon,2005-04-26
+319,978-0-3800-3131-8,On the Way to the Wedding,Romance,English,Avon,2006-03-28
+320,978-0-0621-9827-3,The Lost Duke of Wyndham,Romance,English,Avon,2008-06-24
+321,978-0-0621-9828-0,"Mr. Cavendish, I Presume",Romance,English,Avon,2008-09-30
+322,978-0-0621-9829-7,What Happens in London,Romance,English,Avon,2009-04-28
+323,978-0-0621-9830-3,Ten Things I Love About You,Romance,English,Avon,2010-06-01
+324,978-0-0621-9831-0,Just Like Heaven,Romance,English,Avon,2011-06-28
+325,978-0-0621-9832-7,A Night Like This,Romance,English,Avon,2012-06-26
+326,978-0-0621-9833-4,The Sum of All Kisses,Romance,English,Avon,2013-11-26
+327,978-0-0621-9834-1,Because of Miss Bridgerton,Romance,English,Avon,2016-05-31
+328,978-0-0621-9835-8,The Girl with the Make-Believe Husband,Romance,English,Avon,2017-05-30
+329,978-0-0621-9836-5,The Other Miss Bridgerton,Romance,English,Avon,2017-10-31
+330,978-0-0621-9837-2,First Comes Scandal,Romance,English,Avon,2020-04-07
+331,978-0-0621-9838-9,Lady Whistledown Strikes Back,Romance,English,Avon,2003-06-24
+332,978-0-0628-4927-7,The Poppy War,Fantasy,English,Harper Voyager,2018-05-01
+333,978-0-0628-4928-4,The Dragon Republic,Fantasy,English,Harper Voyager,2019-08-06
+334,978-0-0628-4929-1,The Burning God,Fantasy,English,Harper Voyager,2020-11-17
+335,978-0-0628-4930-7,Babel,Fantasy,English,Harper Voyager,2022-08-23
+336,978-0-0628-4931-4,Yellowface,Fiction,English,William Morrow,2023-05-16
+337,978-0-0628-4932-1,Katabasis,Fantasy,English,Harper Voyager,2025-04-22
+338,978-0-0628-4933-8,Taipei Story,Literary Fiction,English,William Morrow,2026-09-08
+339,978-1-6680-9161-6,The Glass Meridian,Literary Fiction,English,Harper,2026-04-07
+340,978-1-6680-9162-3,What the River Carries,Literary Fiction,English,Knopf,2026-04-07
+341,978-1-6680-9163-0,The Last Cartographer,Historical Fiction,English,William Morrow,2026-04-14
+342,978-1-6680-9164-7,All the Quiet Distances,Literary Fiction,English,Farrar Straus Giroux,2026-04-14
+343,978-1-6680-9165-4,The Bone Garden,Thriller,English,"Little, Brown",2026-04-14
+344,978-1-6680-9166-1,The Orchard at the Edge of Town,Literary Fiction,English,Penguin Press,2026-04-21
+345,978-1-6680-9167-8,Daughters of the Salt Sea,Historical Fiction,English,Doubleday,2026-04-21
+346,978-1-6680-9168-5,The Unmapping,Literary Fiction,English,Riverhead,2026-04-21
+347,978-1-6680-9169-2,Strange Hours,Mystery,English,Minotaur Books,2026-04-28
+348,978-1-6680-9170-8,The Echo Chamber,Literary Fiction,English,Random House,2026-04-28
+349,978-1-6680-9171-5,A Season of Burning,Literary Fiction,English,HarperCollins,2026-04-28
+350,978-1-6680-9172-2,The Cartography of Loss,Literary Fiction,English,Knopf,2021-03-16
+351,978-1-6680-9173-9,Where the Light Bends,Literary Fiction,English,Harper,2020-08-11
+352,978-1-6680-9174-6,The Weight of Small Things,Literary Fiction,English,Riverhead,2019-05-07
+353,978-1-6680-9175-3,These Burning Streets,Literary Fiction,English,Farrar Straus Giroux,2022-09-13
+354,978-1-6680-9176-0,The Inheritance of Silence,Literary Fiction,English,Penguin Press,2018-04-03
+355,978-1-6680-9177-7,A Map of Every Ruin,Literary Fiction,English,Random House,2023-11-07
+356,978-1-6680-9178-4,The Long Silence After,Literary Fiction,English,HarperCollins,2024-02-13
+357,978-1-6680-9179-1,What We Carry Home,Literary Fiction,English,Knopf,2024-07-09
+358,978-1-6680-9180-7,The Distance Between Stars,Literary Fiction,English,Doubleday,2023-03-21
+359,978-1-6680-9181-4,The Slow Unraveling,Literary Fiction,English,Scribner,2022-06-14
+360,978-1-6680-9182-1,Hours of Lead,Literary Fiction,English,William Morrow,2021-10-19
+361,978-1-6680-9183-8,The Space Between Forgetting,Literary Fiction,English,Riverhead,2025-03-04
+362,978-1-6680-9184-5,Every Broken Thing,Literary Fiction,English,Harper,2025-07-15
+363,978-1-6680-9185-2,The Afterlight,Literary Fiction,English,Penguin Press,2025-09-02

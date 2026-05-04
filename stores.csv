@@ -1,0 +1,526 @@
+id,retailer_id,city,state,region,zip,country
+1,1,Trenton,NJ,Northeast,08696,US
+2,1,Seattle,WA,Northwest,98172,US
+3,1,Columbus,OH,Midwest,43269,US
+4,1,Cambridge,MA,Northeast,02172,US
+5,1,Kansas City,KS,Midwest,66196,US
+6,1,Colorado Springs,CO,Mountain,80975,US
+7,1,Cincinnati,OH,Midwest,45255,US
+8,1,Portland,OR,Northwest,97275,US
+9,1,Providence,RI,Northeast,02952,US
+10,1,Lincoln,NE,Midwest,68547,US
+11,1,Honolulu,HI,West,96829,US
+12,1,Buffalo,NY,Northeast,14218,US
+13,1,San Diego,CA,West,92166,US
+14,1,Allentown,PA,Northeast,18164,US
+15,1,Baltimore,MD,Northeast,21212,US
+16,1,Syracuse,NY,Northeast,13297,US
+17,1,Salt Lake City,UT,Mountain,84107,US
+18,1,Philadelphia,PA,Northeast,19115,US
+19,1,Fort Lauderdale,FL,Southeast,33320,US
+20,1,Fort Wayne,IN,Midwest,46881,US
+21,1,Huntsville,AL,Southeast,35821,US
+22,1,Chicago,IL,Midwest,60688,US
+23,1,Miami,FL,Southeast,33155,US
+24,1,Los Angeles,CA,West,90077,US
+25,1,Naperville,IL,Midwest,60548,US
+26,1,Greensboro,NC,Southeast,27450,US
+27,1,Cheyenne,WY,Mountain,82049,US
+28,1,San Francisco,CA,West,94178,US
+29,1,Billings,MT,Mountain,59160,US
+30,1,Detroit,MI,Midwest,48268,US
+31,1,Portland,ME,Northeast,04133,US
+32,1,Manchester,NH,Northeast,03171,US
+33,1,Des Moines,IA,Midwest,50302,US
+34,1,Worcester,MA,Northeast,01688,US
+35,1,Boston,MA,Northeast,02193,US
+36,1,Albany,NY,Northeast,12215,US
+37,1,Orlando,FL,Southeast,32888,US
+38,1,Newark,NJ,Northeast,07169,US
+39,1,Las Vegas,NV,West,89197,US
+40,1,Toledo,OH,Midwest,43635,US
+41,1,Kansas City,MO,Midwest,64199,US
+42,1,Charleston,SC,Southeast,29483,US
+43,1,Virginia Beach,VA,Southeast,23494,US
+44,1,Jacksonville,FL,Southeast,32113,US
+45,1,Little Rock,AR,South,72238,US
+46,1,El Paso,TX,Southwest,79956,US
+47,1,Jersey City,NJ,Northeast,07322,US
+48,1,Omaha,NE,Midwest,68159,US
+49,1,Madison,WI,Midwest,53701,US
+50,1,Louisville,KY,Southeast,40293,US
+51,1,Anchorage,AK,West,99593,US
+52,1,Houston,TX,South,77034,US
+53,1,Santa Fe,NM,Southwest,87565,US
+54,1,Pittsburgh,PA,Northeast,15298,US
+55,1,Indianapolis,IN,Midwest,46223,US
+56,1,Tampa,FL,Southeast,33665,US
+57,1,Minneapolis,MN,Midwest,55414,US
+58,1,Saint Paul,MN,Midwest,55181,US
+59,1,Cedar Rapids,IA,Midwest,52439,US
+60,1,Wichita,KS,Midwest,67282,US
+61,1,Tulsa,OK,South,74165,US
+62,1,Hartford,CT,Northeast,06178,US
+63,1,Raleigh,NC,Southeast,27626,US
+64,1,Sacramento,CA,West,95833,US
+65,1,Brooklyn,NY,Northeast,11248,US
+66,1,Denver,CO,Mountain,80298,US
+67,1,St. Louis,MO,Midwest,63121,US
+68,1,Scottsdale,AZ,Southwest,85320,US
+69,1,Springfield,IL,Midwest,62800,US
+70,1,New Orleans,LA,South,70179,US
+71,1,Baton Rouge,LA,South,70801,US
+72,1,Fresno,CA,West,93797,US
+73,1,Annapolis,MD,Northeast,21442,US
+74,1,Nashville,TN,Southeast,37263,US
+75,1,Provo,UT,Mountain,84603,US
+76,1,Durham,NC,Southeast,27715,US
+77,1,Sioux Falls,SD,Midwest,57147,US
+78,1,New Haven,CT,Northeast,06540,US
+79,1,Eugene,OR,Northwest,97431,US
+80,1,Lexington,KY,Southeast,40508,US
+81,1,Dallas,TX,South,75231,US
+82,1,Wilmington,DE,Northeast,19873,US
+83,1,Birmingham,AL,Southeast,35213,US
+84,1,Spokane,WA,Northwest,99211,US
+85,1,San Antonio,TX,South,78294,US
+86,1,Jackson,MS,South,39263,US
+87,1,Richmond,VA,Southeast,23227,US
+88,1,Grand Rapids,MI,Midwest,49598,US
+89,1,Fort Worth,TX,South,76169,US
+90,1,Cleveland,OH,Midwest,44199,US
+91,1,Tallahassee,FL,Southeast,32317,US
+92,1,New York City,NY,Northeast,10017,US
+93,1,Memphis,TN,Southeast,38185,US
+94,1,Charlotte,NC,Southeast,28261,US
+95,1,Reno,NV,West,89571,US
+96,1,Augusta,GA,Southeast,30922,US
+97,1,Atlanta,GA,Southeast,30334,US
+98,1,Austin,TX,South,73368,US
+99,1,Milwaukee,WI,Midwest,53278,US
+100,1,Tucson,AZ,Southwest,85755,US
+101,1,Ann Arbor,MI,Midwest,48128,US
+102,1,Rochester,NY,Northeast,14670,US
+103,1,San Jose,CA,West,95197,US
+104,1,Albuquerque,NM,Southwest,87194,US
+105,1,Burlington,VT,Northeast,05489,US
+106,1,Oklahoma City,OK,South,73126,US
+107,1,Oakland,CA,West,94692,US
+108,1,Charleston,WV,Southeast,25340,US
+109,1,Boulder,CO,Mountain,80352,US
+110,1,Savannah,GA,Southeast,31486,US
+111,1,Boise,ID,Northwest,83784,US
+112,1,Rockford,IL,Midwest,61148,US
+113,1,Columbia,SC,Southeast,29257,US
+114,1,Phoenix,AZ,Southwest,85067,US
+115,1,Santa Barbara,CA,West,93158,US
+116,1,Fargo,ND,Midwest,58116,US
+117,1,Trenton,NJ,Northeast,08632,US
+118,1,Seattle,WA,Northwest,98129,US
+119,1,Columbus,OH,Midwest,43209,US
+120,1,Cambridge,MA,Northeast,02182,US
+121,2,Wilmington,DE,Northeast,19887,US
+122,2,Cedar Rapids,IA,Midwest,52431,US
+123,2,Syracuse,NY,Northeast,13252,US
+124,2,Baltimore,MD,Northeast,21216,US
+125,2,Boston,MA,Northeast,02173,US
+126,2,San Jose,CA,West,95132,US
+127,2,Springfield,IL,Midwest,62775,US
+128,2,Cambridge,MA,Northeast,02215,US
+129,2,Cheyenne,WY,Mountain,82006,US
+130,2,Grand Rapids,MI,Midwest,49580,US
+131,2,Fort Worth,TX,South,76111,US
+132,2,Spokane,WA,Northwest,99254,US
+133,2,New Orleans,LA,South,70196,US
+134,2,Santa Barbara,CA,West,93175,US
+135,2,Indianapolis,IN,Midwest,46273,US
+136,2,Des Moines,IA,Midwest,50367,US
+137,2,New Haven,CT,Northeast,06541,US
+138,2,Burlington,VT,Northeast,05434,US
+139,2,Chicago,IL,Midwest,60627,US
+140,2,Huntsville,AL,Southeast,35886,US
+141,2,Jersey City,NJ,Northeast,07393,US
+142,2,Dallas,TX,South,75241,US
+143,2,Durham,NC,Southeast,27731,US
+144,2,St. Louis,MO,Midwest,63134,US
+145,2,Portland,ME,Northeast,04151,US
+146,2,San Antonio,TX,South,78217,US
+147,2,Miami,FL,Southeast,33186,US
+148,2,Newark,NJ,Northeast,07183,US
+149,2,Wichita,KS,Midwest,67239,US
+150,2,Reno,NV,West,89559,US
+151,2,Orlando,FL,Southeast,32841,US
+152,2,Columbia,SC,Southeast,29297,US
+153,2,Hartford,CT,Northeast,06110,US
+154,2,Charleston,SC,Southeast,29402,US
+155,2,Allentown,PA,Northeast,18159,US
+156,2,Fort Wayne,IN,Midwest,46880,US
+157,2,Annapolis,MD,Northeast,21473,US
+158,2,Providence,RI,Northeast,02913,US
+159,2,Fargo,ND,Midwest,58110,US
+160,2,Saint Paul,MN,Midwest,55169,US
+161,2,Tallahassee,FL,Southeast,32328,US
+162,2,Brooklyn,NY,Northeast,11265,US
+163,2,Memphis,TN,Southeast,38134,US
+164,2,New York City,NY,Northeast,10017,US
+165,2,Fort Lauderdale,FL,Southeast,33345,US
+166,2,Sacramento,CA,West,95822,US
+167,2,Omaha,NE,Midwest,68132,US
+168,2,Scottsdale,AZ,Southwest,85298,US
+169,2,Richmond,VA,Southeast,23255,US
+170,2,Naperville,IL,Midwest,60560,US
+171,2,Kansas City,KS,Midwest,66157,US
+172,2,Phoenix,AZ,Southwest,85070,US
+173,2,Charlotte,NC,Southeast,28291,US
+174,2,Las Vegas,NV,West,89139,US
+175,2,Houston,TX,South,77079,US
+176,2,Tulsa,OK,South,74184,US
+177,2,Albany,NY,Northeast,12268,US
+178,2,Seattle,WA,Northwest,98102,US
+179,2,Austin,TX,South,73386,US
+180,2,Raleigh,NC,Southeast,27671,US
+181,2,Columbus,OH,Midwest,43239,US
+182,2,Denver,CO,Mountain,80285,US
+183,2,El Paso,TX,Southwest,79914,US
+184,2,Nashville,TN,Southeast,37218,US
+185,2,Tampa,FL,Southeast,33634,US
+186,2,Provo,UT,Mountain,84615,US
+187,2,Boulder,CO,Mountain,80314,US
+188,2,Jackson,MS,South,39296,US
+189,2,Trenton,NJ,Northeast,08671,US
+190,2,Milwaukee,WI,Midwest,53220,US
+191,2,Sioux Falls,SD,Midwest,57135,US
+192,2,Portland,OR,Northwest,97237,US
+193,2,Oakland,CA,West,94678,US
+194,2,Lexington,KY,Southeast,40527,US
+195,2,Worcester,MA,Northeast,01692,US
+196,2,Salt Lake City,UT,Mountain,84144,US
+197,2,Cleveland,OH,Midwest,44127,US
+198,2,Little Rock,AR,South,72288,US
+199,2,Kansas City,MO,Midwest,64182,US
+200,2,Oklahoma City,OK,South,73134,US
+201,3,Providence,RI,Northeast,02901,US
+202,3,Cheyenne,WY,Mountain,82067,US
+203,3,Tampa,FL,Southeast,33669,US
+204,3,Syracuse,NY,Northeast,13288,US
+205,3,Los Angeles,CA,West,90093,US
+206,3,Milwaukee,WI,Midwest,53295,US
+207,3,Savannah,GA,Southeast,31495,US
+208,3,Burlington,VT,Northeast,05486,US
+209,3,Wichita,KS,Midwest,67226,US
+210,3,Eugene,OR,Northwest,97447,US
+211,3,Annapolis,MD,Northeast,21456,US
+212,3,Des Moines,IA,Midwest,50309,US
+213,3,Atlanta,GA,Southeast,30386,US
+214,3,Columbus,OH,Midwest,43243,US
+215,3,Greensboro,NC,Southeast,27480,US
+216,3,Allentown,PA,Northeast,18141,US
+217,3,Kansas City,KS,Midwest,66185,US
+218,3,Fort Wayne,IN,Midwest,46816,US
+219,3,Jackson,MS,South,39293,US
+220,3,Dallas,TX,South,75239,US
+221,3,Rochester,NY,Northeast,14665,US
+222,3,San Francisco,CA,West,94141,US
+223,3,Las Vegas,NV,West,89186,US
+224,3,El Paso,TX,Southwest,79953,US
+225,3,St. Louis,MO,Midwest,63142,US
+226,3,Brooklyn,NY,Northeast,11252,US
+227,3,Naperville,IL,Midwest,60629,US
+228,3,Indianapolis,IN,Midwest,46238,US
+229,3,Durham,NC,Southeast,27771,US
+230,3,Newark,NJ,Northeast,07117,US
+231,3,Madison,WI,Midwest,53725,US
+232,3,Houston,TX,South,77054,US
+233,3,Toledo,OH,Midwest,43686,US
+234,3,Grand Rapids,MI,Midwest,49549,US
+235,3,Billings,MT,Mountain,59187,US
+236,3,Tallahassee,FL,Southeast,32396,US
+237,3,Lexington,KY,Southeast,40523,US
+238,3,Pittsburgh,PA,Northeast,15279,US
+239,3,Charlotte,NC,Southeast,28273,US
+240,3,Boston,MA,Northeast,02139,US
+241,3,Trenton,NJ,Northeast,08652,US
+242,3,Manchester,NH,Northeast,03171,US
+243,3,Augusta,GA,Southeast,30901,US
+244,3,Fresno,CA,West,93759,US
+245,3,Nashville,TN,Southeast,37237,US
+246,3,Jersey City,NJ,Northeast,07328,US
+247,3,Anchorage,AK,West,99556,US
+248,3,Jacksonville,FL,Southeast,32173,US
+249,3,Spokane,WA,Northwest,99278,US
+250,3,New Orleans,LA,South,70195,US
+251,3,Sacramento,CA,West,95855,US
+252,3,Boulder,CO,Mountain,80360,US
+253,3,Denver,CO,Mountain,80257,US
+254,3,Sioux Falls,SD,Midwest,57157,US
+255,3,Omaha,NE,Midwest,68187,US
+256,3,Fort Worth,TX,South,76128,US
+257,3,Worcester,MA,Northeast,01666,US
+258,3,Buffalo,NY,Northeast,14261,US
+259,3,Cambridge,MA,Northeast,02233,US
+260,3,Miami,FL,Southeast,33122,US
+261,4,Fort Lauderdale,FL,Southeast,33335,US
+262,4,Des Moines,IA,Midwest,50356,US
+263,4,Tampa,FL,Southeast,33663,US
+264,4,New Haven,CT,Northeast,06504,US
+265,4,Milwaukee,WI,Midwest,53250,US
+266,4,Memphis,TN,Southeast,38144,US
+267,4,Burlington,VT,Northeast,05486,US
+268,4,Augusta,GA,Southeast,30987,US
+269,4,Rockford,IL,Midwest,61152,US
+270,4,Portland,ME,Northeast,04193,US
+271,4,Los Angeles,CA,West,90022,US
+272,4,Kansas City,KS,Midwest,66160,US
+273,4,Albuquerque,NM,Southwest,87117,US
+274,4,Charlotte,NC,Southeast,28280,US
+275,4,Lexington,KY,Southeast,40569,US
+276,4,Columbus,OH,Midwest,43204,US
+277,4,Fresno,CA,West,93771,US
+278,4,Fort Wayne,IN,Midwest,46876,US
+279,4,Atlanta,GA,Southeast,30373,US
+280,4,Huntsville,AL,Southeast,35885,US
+281,4,Charleston,SC,Southeast,29404,US
+282,4,Chicago,IL,Midwest,60611,US
+283,4,Austin,TX,South,73383,US
+284,4,Omaha,NE,Midwest,68155,US
+285,4,Dallas,TX,South,75218,US
+286,4,Seattle,WA,Northwest,98160,US
+287,4,Anchorage,AK,West,99524,US
+288,4,Rochester,NY,Northeast,14607,US
+289,4,Albany,NY,Northeast,12234,US
+290,4,Virginia Beach,VA,Southeast,23499,US
+291,4,Columbia,SC,Southeast,29242,US
+292,4,Portland,OR,Northwest,97228,US
+293,4,Santa Barbara,CA,West,93159,US
+294,4,Providence,RI,Northeast,02942,US
+295,4,San Francisco,CA,West,94145,US
+296,4,Nashville,TN,Southeast,37298,US
+297,4,Naperville,IL,Midwest,60588,US
+298,4,Wilmington,DE,Northeast,19836,US
+299,4,Miami,FL,Southeast,33197,US
+300,4,New Orleans,LA,South,70165,US
+301,4,Baton Rouge,LA,South,70833,US
+302,4,Cleveland,OH,Midwest,44111,US
+303,4,Tucson,AZ,Southwest,85761,US
+304,4,Lincoln,NE,Midwest,68503,US
+305,4,Toledo,OH,Midwest,43696,US
+306,4,Charleston,WV,Southeast,25370,US
+307,4,Detroit,MI,Midwest,48207,US
+308,4,Eugene,OR,Northwest,97445,US
+309,4,Springfield,IL,Midwest,62729,US
+310,4,Cambridge,MA,Northeast,02222,US
+311,4,Tulsa,OK,South,74109,US
+312,4,Santa Fe,NM,Southwest,87600,US
+313,4,Trenton,NJ,Northeast,08684,US
+314,4,Pittsburgh,PA,Northeast,15206,US
+315,4,Brooklyn,NY,Northeast,11297,US
+316,4,Annapolis,MD,Northeast,21404,US
+317,4,Colorado Springs,CO,Mountain,80932,US
+318,4,Richmond,VA,Southeast,23244,US
+319,4,Provo,UT,Mountain,84603,US
+320,4,Minneapolis,MN,Midwest,55480,US
+321,4,Baltimore,MD,Northeast,21220,US
+322,4,Madison,WI,Midwest,53731,US
+323,4,Fort Worth,TX,South,76117,US
+324,4,Jackson,MS,South,39261,US
+325,4,Philadelphia,PA,Northeast,19186,US
+326,4,Reno,NV,West,89515,US
+327,4,Saint Paul,MN,Midwest,55173,US
+328,4,Wichita,KS,Midwest,67228,US
+329,4,Jersey City,NJ,Northeast,07361,US
+330,4,Syracuse,NY,Northeast,13290,US
+331,5,Richmond,VA,Southeast,23264,US
+332,5,Kansas City,KS,Midwest,66190,US
+333,5,Seattle,WA,Northwest,98159,US
+334,5,Sacramento,CA,West,95848,US
+335,5,Hartford,CT,Northeast,06140,US
+336,5,Fresno,CA,West,93753,US
+337,5,Allentown,PA,Northeast,18130,US
+338,5,Baton Rouge,LA,South,70816,US
+339,5,Billings,MT,Mountain,59193,US
+340,5,Springfield,IL,Midwest,62725,US
+341,5,Columbia,SC,Southeast,29241,US
+342,5,Nashville,TN,Southeast,37216,US
+343,5,Las Vegas,NV,West,89196,US
+344,5,Dallas,TX,South,75269,US
+345,5,Tucson,AZ,Southwest,85798,US
+346,5,Fort Lauderdale,FL,Southeast,33389,US
+347,5,Raleigh,NC,Southeast,27624,US
+348,5,Burlington,VT,Northeast,05425,US
+349,5,Jersey City,NJ,Northeast,07329,US
+350,5,Rockford,IL,Midwest,61195,US
+351,5,Providence,RI,Northeast,02962,US
+352,5,Honolulu,HI,West,96836,US
+353,5,Boston,MA,Northeast,02193,US
+354,5,Kansas City,MO,Midwest,64176,US
+355,5,Tampa,FL,Southeast,33698,US
+356,5,Los Angeles,CA,West,90068,US
+357,5,Anchorage,AK,West,99577,US
+358,5,Little Rock,AR,South,72237,US
+359,5,Toledo,OH,Midwest,43613,US
+360,5,Birmingham,AL,Southeast,35227,US
+361,5,Eugene,OR,Northwest,97438,US
+362,5,Cheyenne,WY,Mountain,82030,US
+363,5,Worcester,MA,Northeast,01647,US
+364,5,Fargo,ND,Midwest,58123,US
+365,5,Colorado Springs,CO,Mountain,80939,US
+366,5,Manchester,NH,Northeast,03102,US
+367,5,New York City,NY,Northeast,10091,US
+368,5,Wichita,KS,Midwest,67269,US
+369,5,San Jose,CA,West,95117,US
+370,5,Saint Paul,MN,Midwest,55136,US
+371,5,Philadelphia,PA,Northeast,19106,US
+372,5,San Antonio,TX,South,78207,US
+373,5,Charleston,WV,Southeast,25371,US
+374,5,Jacksonville,FL,Southeast,32136,US
+375,5,Louisville,KY,Southeast,40290,US
+376,5,Provo,UT,Mountain,84617,US
+377,5,Indianapolis,IN,Midwest,46282,US
+378,5,Cleveland,OH,Midwest,44197,US
+379,5,Sioux Falls,SD,Midwest,57163,US
+380,5,Newark,NJ,Northeast,07114,US
+381,5,Savannah,GA,Southeast,31402,US
+382,5,Jackson,MS,South,39274,US
+383,5,Columbus,OH,Midwest,43237,US
+384,5,Madison,WI,Midwest,53761,US
+385,5,Cincinnati,OH,Midwest,45262,US
+386,5,Durham,NC,Southeast,27757,US
+387,5,Salt Lake City,UT,Mountain,84144,US
+388,5,Boulder,CO,Mountain,80324,US
+389,5,Fort Wayne,IN,Midwest,46807,US
+390,5,Albuquerque,NM,Southwest,87133,US
+391,5,Detroit,MI,Midwest,48262,US
+392,5,Atlanta,GA,Southeast,30315,US
+393,5,Augusta,GA,Southeast,30909,US
+394,5,Omaha,NE,Midwest,68152,US
+395,5,Naperville,IL,Midwest,60602,US
+396,6,Scottsdale,AZ,Southwest,85332,US
+397,6,Philadelphia,PA,Northeast,19163,US
+398,6,Albany,NY,Northeast,12212,US
+399,6,Columbus,OH,Midwest,43261,US
+400,6,Spokane,WA,Northwest,99245,US
+401,6,San Jose,CA,West,95153,US
+402,6,Dallas,TX,South,75243,US
+403,6,Rockford,IL,Midwest,61142,US
+404,6,El Paso,TX,Southwest,79986,US
+405,6,Baton Rouge,LA,South,70814,US
+406,6,Boston,MA,Northeast,02121,US
+407,6,Eugene,OR,Northwest,97443,US
+408,6,Worcester,MA,Northeast,01653,US
+409,6,Miami,FL,Southeast,33189,US
+410,6,Charleston,WV,Southeast,25364,US
+411,6,Baltimore,MD,Northeast,21237,US
+412,6,Jacksonville,FL,Southeast,32183,US
+413,6,Austin,TX,South,73352,US
+414,6,Oklahoma City,OK,South,73198,US
+415,6,Tampa,FL,Southeast,33671,US
+416,6,Portland,OR,Northwest,97205,US
+417,6,Oakland,CA,West,94659,US
+418,6,Huntsville,AL,Southeast,35812,US
+419,6,Chicago,IL,Midwest,60641,US
+420,6,Anchorage,AK,West,99533,US
+421,6,Portland,ME,Northeast,04142,US
+422,6,Virginia Beach,VA,Southeast,23465,US
+423,6,St. Louis,MO,Midwest,63199,US
+424,6,Allentown,PA,Northeast,18152,US
+425,6,San Francisco,CA,West,94167,US
+426,6,Memphis,TN,Southeast,38101,US
+427,6,Tallahassee,FL,Southeast,32385,US
+428,6,Pittsburgh,PA,Northeast,15270,US
+429,6,Trenton,NJ,Northeast,08660,US
+430,6,Columbia,SC,Southeast,29253,US
+431,6,Sioux Falls,SD,Midwest,57107,US
+432,6,Hartford,CT,Northeast,06125,US
+433,6,Las Vegas,NV,West,89167,US
+434,6,Richmond,VA,Southeast,23265,US
+435,6,Cincinnati,OH,Midwest,45280,US
+436,7,Jersey City,NJ,Northeast,07344,US
+437,7,Reno,NV,West,89587,US
+438,7,Tampa,FL,Southeast,33669,US
+439,7,Trenton,NJ,Northeast,08649,US
+440,7,Scottsdale,AZ,Southwest,85291,US
+441,7,Austin,TX,South,73381,US
+442,7,Oakland,CA,West,94692,US
+443,7,Los Angeles,CA,West,90098,US
+444,7,Jackson,MS,South,39263,US
+445,7,Kansas City,KS,Midwest,66170,US
+446,7,Atlanta,GA,Southeast,30305,US
+447,7,Seattle,WA,Northwest,98180,US
+448,7,Oklahoma City,OK,South,73109,US
+449,7,Fort Worth,TX,South,76131,US
+450,7,Memphis,TN,Southeast,38181,US
+451,7,Springfield,IL,Midwest,62788,US
+452,7,Annapolis,MD,Northeast,21437,US
+453,7,Albany,NY,Northeast,12230,US
+454,7,Minneapolis,MN,Midwest,55496,US
+455,7,Dallas,TX,South,75212,US
+456,8,Lexington,KY,Southeast,40515,US
+457,8,Austin,TX,South,73360,US
+458,8,Boston,MA,Northeast,02110,US
+459,8,Columbus,OH,Midwest,43219,US
+460,8,Springfield,IL,Midwest,62797,US
+461,8,Spokane,WA,Northwest,99229,US
+462,8,Cedar Rapids,IA,Midwest,52487,US
+463,8,Jackson,MS,South,39293,US
+464,8,Portland,ME,Northeast,04187,US
+465,8,Eugene,OR,Northwest,97451,US
+466,8,Milwaukee,WI,Midwest,53272,US
+467,8,Reno,NV,West,89547,US
+468,8,Naperville,IL,Midwest,60551,US
+469,8,Omaha,NE,Midwest,68151,US
+470,8,Fort Worth,TX,South,76102,US
+471,9,Charlotte,NC,Southeast,28268,US
+472,9,Buffalo,NY,Northeast,14215,US
+473,9,Colorado Springs,CO,Mountain,80996,US
+474,9,Syracuse,NY,Northeast,13209,US
+475,9,San Jose,CA,West,95161,US
+476,9,Nashville,TN,Southeast,37258,US
+477,9,Boise,ID,Northwest,83800,US
+478,9,San Diego,CA,West,92147,US
+479,9,Fort Wayne,IN,Midwest,46866,US
+480,9,Reno,NV,West,89576,US
+481,9,Baton Rouge,LA,South,70814,US
+482,9,Anchorage,AK,West,99558,US
+483,9,Indianapolis,IN,Midwest,46265,US
+484,9,Brooklyn,NY,Northeast,11229,US
+485,9,Cedar Rapids,IA,Midwest,52479,US
+486,9,Louisville,KY,Southeast,40206,US
+487,9,Wilmington,DE,Northeast,19894,US
+488,9,Portland,ME,Northeast,04185,US
+489,9,Provo,UT,Mountain,84667,US
+490,9,Manchester,NH,Northeast,03139,US
+491,9,Worcester,MA,Northeast,01659,US
+492,9,Birmingham,AL,Southeast,35285,US
+493,9,Sioux Falls,SD,Midwest,57104,US
+494,9,Chicago,IL,Midwest,60608,US
+495,9,Jacksonville,FL,Southeast,32160,US
+496,10,Naperville,IL,Midwest,60634,US
+497,10,Cheyenne,WY,Mountain,82082,US
+498,10,San Antonio,TX,South,78204,US
+499,10,Jacksonville,FL,Southeast,32110,US
+500,10,Brooklyn,NY,Northeast,11296,US
+501,10,Huntsville,AL,Southeast,35868,US
+502,10,Providence,RI,Northeast,02928,US
+503,10,Cincinnati,OH,Midwest,45249,US
+504,10,Denver,CO,Mountain,80254,US
+505,10,Provo,UT,Mountain,84659,US
+506,10,Manchester,NH,Northeast,03144,US
+507,10,Wilmington,DE,Northeast,19821,US
+508,10,Tallahassee,FL,Southeast,32348,US
+509,10,Tucson,AZ,Southwest,85740,US
+510,10,Anchorage,AK,West,99593,US
+511,10,Indianapolis,IN,Midwest,46242,US
+512,10,Greensboro,NC,Southeast,27500,US
+513,10,Birmingham,AL,Southeast,35275,US
+514,10,Cambridge,MA,Northeast,02215,US
+515,10,New Orleans,LA,South,70122,US
+516,10,Springfield,IL,Midwest,62707,US
+517,10,Boise,ID,Northwest,83720,US
+518,10,Cedar Rapids,IA,Midwest,52421,US
+519,10,Seattle,WA,Northwest,98197,US
+520,10,Savannah,GA,Southeast,31480,US
+521,10,Raleigh,NC,Southeast,27607,US
+522,10,Boulder,CO,Mountain,80387,US
+523,10,Las Vegas,NV,West,89111,US
+524,10,Albuquerque,NM,Southwest,87135,US
+525,10,Columbia,SC,Southeast,29257,US
